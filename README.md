@@ -6,9 +6,9 @@ is Based on Nvidia End-to-End Deep Learning for Self-Driving Cars Approch
 - Testing was on Udacity simulation
 
 
-#End-to-End Deep Learning for Self-Driving Cars
+# End-to-End Deep Learning for Self-Driving Cars
 https://developer.nvidia.com/blog/deep-learning-self-driving-cars/
 
-#Udacity Simulation
+# Udacity Simulation
 https://github.com/KhaledNasser/self-driving-car-sim
 
