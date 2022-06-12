@@ -12,3 +12,6 @@ https://developer.nvidia.com/blog/deep-learning-self-driving-cars/
 ## Udacity Simulation
 https://github.com/KhaledNasser/self-driving-car-sim
 
+## Video of Trials
+https://www.youtube.com/watch?v=bZRZtoSkfew
+
